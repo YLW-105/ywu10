@@ -12,10 +12,6 @@ KREWES = {
     'endymion': ['JASON', 'DEAN', 'MADDIE', 'SAQIF', 'CINDY', 'YI LING', 'RUOSHUI', 'FB', 'MATTHEW', 'MAY', 'ERIN', 'MEIRU']
 }
 
-## print(len(KREWES));
-## print(KREWES);
-
 team = input("Pick a team: "); ## user inputs desired team
-## print(team);
 a = random.randint(0,len(KREWES[team])-1); ## pick random member from chosen team
 print((KREWES[team][a])); ## print member choice
