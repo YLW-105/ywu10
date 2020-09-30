@@ -1,8 +1,9 @@
-## Dean Carey, Constance Chen, & Yi Ling Wu
-## 9/29/20 - HW #5
-## Write a program that will print
-## the name of a randomly-selected
-## student from team(orpheus, rex, or endymion).
+#!/usr/bin/env python
+# Yi Ling Wu
+# SoftDev
+# K05 -- Aim: Start using python
+# 2020-09-29
+# Team DCY: Dean Carey, Constance Chen, & Yi Ling Wu
 
 import random;
 
